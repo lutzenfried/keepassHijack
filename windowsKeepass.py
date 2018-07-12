@@ -1,7 +1,10 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-#Keepas hijacker for Windows
+#Author : ### lutzenfried ###
+#Use only for educational purpose
+
+#Keepass hijacker for Windows
 #Dump clipboard storage, using when copy password to keepass manager
 #On linux machine you have to copie/past https://pypi.python.org/packages/5b/06/86e3c6a55cacef0e4ec7c25379ff7fcd1a88fd939ecefd442b535c792fa4/pyperclip-1.6.0.tar.gz#md5=d2f6a3129cd6f2518b52bb0b8deeeda7
 #On Windows machine you have to copie/past https://pypi.python.org/pypi/pyperclip/1.5.1
